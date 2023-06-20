@@ -18,7 +18,6 @@ console.log(d+f)
 
 console.log(6/"3")
 
-"2" * "3"
 console.log("2" * "3")
 
 console.log(4 + 5 + "px")
